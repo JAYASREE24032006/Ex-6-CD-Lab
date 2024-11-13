@@ -1,16 +1,15 @@
-# Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
-IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :
-# Aim :
+# EX6 - IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+
+## AIM :
 To write a program to implement the back end of the compiler.
-# ALGORITHM
+## ALGORITHM :
 1. Start the program.
 2. Get the three variables from statements and stored in the text file k.txt.
 3. Compile the program and give the path of the source file.
 4. Execute the program.
 5. Target code for the given statement is produced.
 6. Stop the program.
-# PROGRAM
+## PROGRAM :
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -49,11 +48,12 @@ int main()
 }
 
 ```
-# OUTPUT
-## k.txt File
+## OUTPUT :
+
 ![image](https://github.com/user-attachments/assets/a11d1d11-97b5-49bb-82de-02f55e0884ca)
-## Program Output:
+
 ![image](https://github.com/user-attachments/assets/281024b2-e9ab-442c-9bf6-3e48c8535158)
 
-# Result
-The back end of the compiler is implemented successfully, and the output is verified.
+## RESULT :
+The back end of the compiler is implemented successfully, and the output is verified Successfully
+
